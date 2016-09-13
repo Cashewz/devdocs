@@ -311,7 +311,7 @@ styling. To match our guidelines we're splitting the object in two objects and u
  
 ```
 .noun {}            // parent:  .post
-.noun--noun {}      // child:   .post-title
+.noun--noun {}      // child:   .post--title
 ```
 
 **Subclasses** using a prefixed adjective which defines the type:
